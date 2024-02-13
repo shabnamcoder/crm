@@ -19,5 +19,6 @@ git config --global user.name "user name"
 ```sh
 git status
 git add .
+git commit -m "your massage"
 ```
 
